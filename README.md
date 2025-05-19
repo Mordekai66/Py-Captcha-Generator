@@ -65,10 +65,11 @@ PyCaptchaGenerator is a Python application that generates both image and audio C
   - `captcha`
   - `tkinter`
   - `wave` (for audio processing)
+  - `pyttsx3` (for text-to-speech conversion to generate audio files of letters and digits)
 
 Install requirements with:
 ```bash
-pip install captcha wave
+pip install captcha wave pyttsx3
 ```
 
 ## Repository Structure
