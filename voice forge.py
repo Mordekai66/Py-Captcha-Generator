@@ -5,5 +5,5 @@ voices = engine.getProperty('voices')
 engine.setProperty('rate', 200)
 engine.setProperty('voice', voices[1].id)
 for i in digits_char:
-    engine.save_to_file(i, rf"D:\VS code\Python-Projects\captcha\Voices\oman\{i}.wav")
+    engine.save_to_file(i, rf"path\to\voice\dir\{i}.wav")
 engine.runAndWait()
