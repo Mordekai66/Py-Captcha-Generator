@@ -78,7 +78,7 @@ pip install captcha wave pyttsx3
 PyCaptchaGenerator/
 ├── .gitignore
 ├── main.py              # Main application with GUI
-├── voice_forge.py       # Audio file combiner utility
+├── voice_forge.py       # To generate audio files of letters and digits
 ├── assets/
 │   ├── captcha.png      # Sample generated image CAPTCHA
 │   └── captcha.wav      # Sample generated audio CAPTCHA
