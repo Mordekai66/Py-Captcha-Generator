@@ -1,4 +1,12 @@
 # PyCaptchaGenerator
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-5C3EE8?logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-9.0%2B-40A5E6?logo=pillow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-013243?logo=numpy&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-4DA51F?logo=opensourceinitiative&logoColor=white)
+![Captcha](https://img.shields.io/badge/CAPTCHA-Generator-FF6B35?logo=recaptcha&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Tool-00C853?logo=securityscorecard&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image-Processing-9C27B0?logo=adobephotoshop&logoColor=white)
 
 PyCaptchaGenerator is a Python application that generates both image and audio CAPTCHAs with a simple Tkinter GUI. It provides an effective solution for bot protection and user verification by creating customized CAPTCHA challenges.
 
