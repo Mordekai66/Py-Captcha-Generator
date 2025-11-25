@@ -83,8 +83,7 @@ pip install captcha wave pyttsx3
 ## Repository Structure
 
 ```bash
-PyCaptchaGenerator/
-├── .gitignore
+Py-Captcha-Generator/
 ├── main.py              # Main application with GUI
 ├── voice_forge.py       # To generate audio files of letters and digits
 ├── assets/
